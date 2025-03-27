@@ -6,7 +6,6 @@ First, run the development server:
 
 ```bash
 #to install dependancies
-npm install --force
 npm run dev
 # or
 yarn dev
